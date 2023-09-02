@@ -56,14 +56,14 @@
 /* blog details page */
 .blog-details {
   font-size: 20px;
-  color: #f1356d;
+  color: #5e24ff;
   margin-bottom: 10px;
 }
 .blog-details div{
   margin: 20px 0;
 }
 .blog-details button{
-  background: #f1356d;
+  background: #5e24ff;
   color: #fff;
   border: 0;
   padding: 8px;
@@ -87,7 +87,7 @@
 }
 .create h2{
   font-size: 20px;
-  color: #f1356d;
+  color: #5e24ff;
   margin-bottom: 30px;
 }
 .create input, .create textarea, .create select {
@@ -100,7 +100,7 @@
   background-color: #fff;
 }
 .create button{
-  background: #f1356d;
+  background: #5e24ff;
   color: #fff;
   border: 0;
   padding: 8px;
